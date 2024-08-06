@@ -8,3 +8,4 @@ gemspec
 gem 'danger'
 gem 'rubocop'
 gem 'yard'
+gem 'xcresult', '~> 0.2', :git => 'git@github.com:aleksanderlorenc-lw/xcresult.git'
