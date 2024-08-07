@@ -8,4 +8,4 @@ gemspec
 gem 'danger'
 gem 'rubocop'
 gem 'yard'
-gem 'xcresult', '~> 0.2.2', :git => 'git@github.com:aleksanderlorenc-lw/xcresult.git', :branch => 'xcode16-legacy-fix'
+gem 'xcresult-lw', '0.2.3', :git => 'git@github.com:aleksanderlorenc-lw/xcresult-lw.git', :branch => 'xcode16-legacy-fix-lw'
